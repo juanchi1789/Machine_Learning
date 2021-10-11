@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Bioinformatica/.idea/Bioinformatica.iml" filepath="$PROJECT_DIR$/../Bioinformatica/.idea/Bioinformatica.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Biomedical Instrumentation 2/.idea/Biomedical Instrumentation 2.iml" filepath="$PROJECT_DIR$/../Biomedical Instrumentation 2/.idea/Biomedical Instrumentation 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Machine_Learning.iml" filepath="$PROJECT_DIR$/.idea/Machine_Learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PSB/.idea/PSB.iml" filepath="$PROJECT_DIR$/../PSB/.idea/PSB.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../leetcode/.idea/leetcode.iml" filepath="$PROJECT_DIR$/../leetcode/.idea/leetcode.iml" />
     </modules>
   </component>
 </project>
